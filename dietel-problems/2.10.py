@@ -27,5 +27,6 @@ if greatest < x2:
    greatest = x2 
    gc = x1
 
-print(lc,lowest)
-print(gc,greatest)
+print(f'Lowest grade is {lowest} in {lc}')
+print(f'Highest grade is {greatest} in {gc}')
+print(f'The average grade is {(x2 +y2 +z2)/3}')
