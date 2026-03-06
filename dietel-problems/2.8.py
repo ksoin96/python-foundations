@@ -1,4 +1,4 @@
-#this moslty a problem using escape sequences from Python
+#this is mostly a problem using escape sequences from Python
 print("Hour\tNumber of Bacteria")
 x=0
 print(f'{x}\t{200*2**x}')
