@@ -9,4 +9,5 @@ elif x >= 70:
 elif x>= 60:
     print("D")
 else:
+    #the else statement(s) is only executed if the previous conditions are False
     print("F")
